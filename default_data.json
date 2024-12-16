@@ -1,0 +1,69 @@
+{
+    "ysws": [
+        {
+            "id": "highseas",
+            "name": "High Seas",
+            "tagline": "Build, battle, booty, repeat!",
+            "banner": "",
+            "you_ship": "Any projects recorded with Hackatime",
+            "we_ship": "Doubloons which you can use to purchase things!",
+            "website": "https://highsaes.hackclub.com",
+            "completed": false,
+            "end": "31/01/2025",
+            "description": "a general purpose YSWS, similar to summer's Arcade",
+            "channel": "https://hackclub.slack.com/archives/C07PZMBUNDS"
+        },
+        {
+            "id": "sprig",
+            "name": "Sprig",
+            "tagline": "Every player is a creator.",
+            "banner": "",
+            "you_ship": "A Sprig game, made in the Sprig engine",
+            "we_ship": "A Sprig console",
+            "website": "https://sprig.hackclub.com",
+            "completed": false,
+            "end": "never",
+            "description": "A custom console made by Hack Club, and powered by the Raspberry Pi Pico",
+            "channel": "https://hackclub.slack.com/archives/C02UN35M7LG"
+        },
+        {
+            "id": "onboard",
+            "name": "Onboard",
+            "tagline": "Design a PCB, get a $100 grant",
+            "banner": "",
+            "you_ship": "Your own PCB",
+            "we_ship": "$100 grant to print the PCB",
+            "website": "https://hackclub.com/onboard",
+            "completed": false,
+            "end": "never",
+            "description": "Design your own PCB, and get it printed!",
+            "channel": "https://hackclub.slack.com/archives/C056AMWSFKJ"
+        },
+        {
+            "id": "liveonboard",
+            "name": "OnBoard Live",
+            "tagline": "Design a PCB live on YouTube for $5/hour!",
+            "banner": "",
+            "you_ship": "A livestream on YouTube designing your PCB",
+            "we_ship": "$5/hour for the duration of the stream",
+            "website": "https://hackclub.com/onboard",
+            "completed": false,
+            "end": "never",
+            "description": "Make your own PCB live on YouTube and get $5/hour for the duration of the stream!",
+            "channel": "https://hackclub.slack.com/archives/C07F3EA2L8G"
+        },
+        {
+            "id": "bobadrops",
+            "name": "Boba Drops",
+            "tagline": "Build website, get boba!",
+            "banner": "",
+            "you_ship": "An amazing website",
+            "we_ship": "Free Bubble Tea!",
+            "website": "https://boba.hackclub.com",
+            "completed": false,
+            "end": "never",
+            "description": "Get free bubble tea by making an amazing website!",
+            "channel": "https://hackclub.slack.com/archives/C06UJR8QW0M"
+        }
+    ]
+}
